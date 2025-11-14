@@ -1,0 +1,2 @@
+This project implements a simple yet complete ETL (Extract–Transform–Load) data pipeline using Python, Pandas, and SQLite.
+It reads raw sales data from a CSV file, cleans and aggregates it, and loads the final output into a SQLite analytics database.
